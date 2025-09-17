@@ -7,7 +7,7 @@ This project showcases personal information, education, experience, skills, and 
 
 ## 🚀 Live Demo
 
-🔗 [View on GitHub Pages](https://dugerdev.github.io/cv-wbsite)
+🔗 [View on GitHub Pages](https://dugerdev.github.io/cv-website)
 
 ---
 
@@ -31,5 +31,6 @@ This project showcases personal information, education, experience, skills, and 
 | CSS3 / Bootstrap 5 | Styling and responsive design  |
 | JavaScript   | Interactive elements (Bootstrap JS) |
 | Git/GitHub   | Version control and deployment       |
+
 
 
