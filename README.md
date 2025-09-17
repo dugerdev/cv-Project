@@ -7,7 +7,7 @@ This project showcases personal information, education, experience, skills, and 
 
 ## 🚀 Live Demo
 
-🔗 [View on GitHub Pages](https://dugerdev.github.io/cv-website)
+🔗 [View on GitHub Pages](https://dugerdev.github.io/cv-wbsite)
 
 ---
 
